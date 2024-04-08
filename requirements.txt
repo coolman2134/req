@@ -52,3 +52,4 @@ python-dotenv>=1.0.0
 av
 pydantic==1.10.12  # Specified version, kept as is
 io
+mega
